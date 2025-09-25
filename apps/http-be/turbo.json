@@ -1,0 +1,9 @@
+{
+  "name": "http-backend",
+  "scripts": {
+    "dev": "nodemon src/httpServer.ts",
+    "build": "tsc -p .",
+    "lint": "eslint .",
+    "test": "jest"
+  }
+}
