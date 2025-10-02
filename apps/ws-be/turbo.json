@@ -1,9 +1,0 @@
-{
-  "name": "ws-backend",
-  "scripts": {
-    "dev": "nodemon src/wsServer.ts",
-    "build": "tsc -p .",
-    "lint": "eslint .",
-    "test": "jest"
-  }
-}

@@ -19,7 +19,8 @@
     "bcrypt": "^6.0.0",
     "zod": "^4.1.11",
     "@repo/be-common":"workspace:*",
-    "@repo/common":"workspace:*"
+    "@repo/common":"workspace:*",
+    "@repo/db":"workspace:*"
   },
   "keywords": [],
   "author": "",
